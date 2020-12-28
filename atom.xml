@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chanbian.github.io</id>
     <title>蝉变</title>
-    <updated>2020-12-28T14:18:44.081Z</updated>
+    <updated>2020-12-28T14:30:34.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chanbian.github.io"/>
     <link rel="self" href="https://chanbian.github.io/atom.xml"/>
-    <subtitle>你不是没有才华，你只是在积蓄力量。</subtitle>
+    <subtitle>「你不是没有才华，你只是在积蓄力量。」</subtitle>
     <logo>https://chanbian.github.io/images/avatar.png</logo>
     <icon>https://chanbian.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 蝉变</rights>
