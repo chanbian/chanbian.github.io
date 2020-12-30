@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chanbian.github.io</id>
     <title>蝉变</title>
-    <updated>2020-12-30T01:22:07.020Z</updated>
+    <updated>2020-12-30T02:35:12.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chanbian.github.io"/>
     <link rel="self" href="https://chanbian.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://chanbian.github.io/images/avatar.png</logo>
     <icon>https://chanbian.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 蝉变</rights>
+    <entry>
+        <title type="html"><![CDATA[阿萨德]]></title>
+        <id>https://chanbian.github.io/post/a-sa-de/</id>
+        <link href="https://chanbian.github.io/post/a-sa-de/">
+        </link>
+        <updated>2020-12-30T02:34:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>阿萨德</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>阿萨德</p>
+<!-- more -->
+<!-- more -->
+<!-- more -->
+<!-- more -->
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World！]]></title>
         <id>https://chanbian.github.io/post/hello-gridea/</id>
